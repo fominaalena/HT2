@@ -11,8 +11,8 @@ public class JenkinsFirefoxTest {
 
 	private Steps steps;
 
-	private final String LOGIN = "alenaafomina";
-	private final String PASSWORD = "E1r2T3y4u5";
+	private final String LOGIN = "hereisyourname";
+	private final String PASSWORD = "hereisyourpassword";
 
 	private final String USER_NAME = "someuser";
 	private final String USER_PASSWORD = "somepassword";
