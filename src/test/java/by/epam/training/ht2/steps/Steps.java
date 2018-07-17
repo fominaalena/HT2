@@ -50,10 +50,6 @@ public class Steps {
 		createUserPage.checkPasswordElementsType();
 		createUserPage.isElementsEmpty();
 	}
-	
-	public void countInput() {
-		
-	}
 
 	public void createNewUser(String userName, String password, String passwordAgain, String fullName, String email) {
 		CreateUserPage createUserPage = PageFactory.initElements(driver, CreateUserPage.class);
